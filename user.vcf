@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Jackson;Cam;;;
-FN: Jackson  Cameron 
-ORG:Australasia.com;
-TITLE:CEO Founder & Lead Software Developer
+N:Fabila;Adrian;;;
+FN: Fabila  Adrian 
+ORG:http://www.tjupurru.com;
+TITLE:Didgeridoo Player, Educator, Producer
 EMAIL;type=INTERNET;type=EMAIL;type=pref:admin@australasia.com
-TEL;type=PHONE;type=VOICE:+61 0423639007
-item1.ADR;type=WORK;type=pref:;;North Queensland\, ;;;;Australasia
+TEL;type=PHONE;type=VOICE:+61 2 9519 4149
+item1.ADR;type=WORK;type=pref:;;Greater Brisbane Area\, ;;;;Australia
 item1.X-ABADR:sg
-item2.URL;type=pref:australasia.com
+item2.URL;type=pref:http://www.tjupurru.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
