@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Fiat;Michael;;;
 FN: Fiat  Michael 
-ORG:https://mikewilldoit.com/;
-TITLE: CEO Tech Founder
-EMAIL;type=INTERNET;type=EMAIL;type=pref:admin@mikewilldoit.com
+ORG:https://australasia.com/;
+TITLE: CTO - Chief Technology Officer
+EMAIL;type=INTERNET;type=EMAIL;type=pref:mike@australasia.com
 TEL;type=PHONE;type=VOICE:+233 56 1081 269
 item1.ADR;type=WORK;type=pref:;;423B, Kwashie Bezrot Street, Ghana\, ;;;;Australia
 item1.X-ABADR:sg
-item2.URL;type=pref:https://mikewilldoit.com/
+item2.URL;type=pref:https://australasia.com/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
